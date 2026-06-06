@@ -1,0 +1,49 @@
+{
+  "$schema": "https://presence.davidcaldicott.online/node-schema/v1",
+  "version": "1",
+  "updated": "2026-06-05",
+  "identity": {
+    "name": "David Caldicott",
+    "role": ["Coach", "Builder", "Systems thinker"],
+    "location": "UK",
+    "mission": "I help people and systems become whole."
+  },
+  "offers": [
+    {
+      "slug": "offer-coaching",
+      "title": "Coaching — Connect Your Dots",
+      "summary": "Three-month coaching programs for people who are capable and at odds with themselves. Built on KIMBA and SAHARA frameworks.",
+      "cta": "https://connect.davidcaldicott.online"
+    },
+    {
+      "slug": "offer-consultancy",
+      "title": "AI Systems & Automation Consultancy",
+      "summary": "Design and build of AI-native operational systems — agent meshes, automation pipelines, content systems.",
+      "cta": "https://davidcaldicott.online/contact"
+    }
+  ],
+  "intents": [
+    {
+      "slug": "intent-people-at-odds",
+      "title": "People who are capable and at odds with themselves"
+    },
+    {
+      "slug": "intent-builders-of-sovereign-systems",
+      "title": "Builders of systems that serve people rather than extract from them"
+    },
+    {
+      "slug": "intent-operators-ready-for-ai",
+      "title": "Operators who want AI that actually works for their business"
+    }
+  ],
+  "links": {
+    "presence": "https://presence.davidcaldicott.online",
+    "meet": "https://meet.davidcaldicott.online",
+    "booking": "https://meet.davidcaldicott.online",
+    "contact": "https://davidcaldicott.online/contact"
+  },
+  "availability": "TBD",
+  "corpus": "https://presence.davidcaldicott.online/api/corpus",
+  "llms_txt": "https://presence.davidcaldicott.online/llms.txt",
+  "_note": "Phase 0 — static stub. availability, host endpoint arrive in later phases."
+}

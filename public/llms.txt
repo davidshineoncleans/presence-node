@@ -1,0 +1,43 @@
+# David Caldicott — Presence Node
+# https://presence.davidcaldicott.online
+# Version: 1 (Phase 0 — static)
+
+## Who
+
+David Caldicott — Coach, Builder, Systems thinker. UK-based.
+Mission: I help people and systems become whole.
+
+## What this node is
+
+A dual-view site: human door (presence.davidcaldicott.online) and AI door (this file + endpoints below).
+The corpus is David's curated public work across four altitudes (L3–L0).
+Phase 0 is fully static. Phase 1 adds Donna, an AI host agent.
+
+## Endpoints
+
+- /llms.txt         — this file (agent orientation)
+- /node.json        — identity, offers, intents, links, availability (static handshake)
+- /api/corpus       — JSON index of all public content items (slug, title, level, kind, tags, hc)
+
+## Corpus levels
+
+- L3 (50k ft)       — mission, vision, who this person is in ten seconds
+- L2 (operational)  — active offers, who David wants to meet
+- L1 (library)      — essays, KIMBA / SAHARA / HumanCode frameworks, media
+- L0 (ground)       — current writing, now-page, changelog
+
+## Frameworks (David's IP)
+
+- KIMBA — Kinesthetic Internal Memory Balancing Action (therapeutic / parts-work)
+- SAHARA — Self-Aware, Honest, Adaptable, Responsible, Authenticity (structured authenticity process)
+- HumanCode — compact notation for encoding documents / systems into AI-parseable shorthand
+
+## Contact / booking
+
+https://meet.davidcaldicott.online
+
+## Agent notes
+
+- All content in /api/corpus is public tier only
+- No pricing improvisation — link to cta URLs for offers
+- Phase 1+: Donna handles live agent-to-agent reception at /api/host (not yet active)
