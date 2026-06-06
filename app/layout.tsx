@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'David Caldicott — Presence',
-  description: 'Coach. Builder. Systems thinker. Everything I've chosen to make knowable.',
+  description: "Coach. Builder. Systems thinker. Everything I've chosen to make knowable.",
   metadataBase: new URL('https://presence.davidcaldicott.online'),
   openGraph: {
     title: 'David Caldicott — Presence',
